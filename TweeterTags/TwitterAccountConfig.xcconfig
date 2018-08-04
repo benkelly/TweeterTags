@@ -1,0 +1,13 @@
+//
+//  TwitterAccountConfig.xcconfig
+//  TweeterTags
+//
+//  Created by COMP47390-41550 on 21/01/2018.
+//  Copyright © 2018 COMP47390-41550. All rights reserved.
+//
+
+// TODO: Copy the keys from the "Keys and Access Tokens" tab of your app page.
+// TODO: To create a new Twitter app, visit Twitter apps dashboard https://apps.twitter.com/
+TWITTER_CONSUMER_KEY = 
+TWITTER_CONSUMER_SECRET = 
+
